@@ -1,0 +1,9 @@
+| | |
+| --------- | ----------------------------------- |
+| __Title__ | Defect Management |
+| __Version Info__ | Version 1.0, submitted by asingh64 on 09/30/2012 at 02:28 PM |
+| __Author__ | Kevin Gary |
+| __Mapping to Content Taxonomy__ | __SEEK:__ QUA.pda <br> __CS2013:__ SE/Software Verification and Validation/Defect Tracking |
+| __Abstract__ | This module starts with a review of defect concepts and then introduces the Defect Management Process involving the costs, defect containment, reduction techniques and defect estimation. |
+| __Size__ | __Preparation:__ 1 hour Reading <br/> __Preparation Quiz:__ 30 minutes <br/> __Discussion:__ 50 minutes <br/> __Practice:__ 2 hours 30 minutes |
+| __Comments__ | |

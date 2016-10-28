@@ -1,0 +1,9 @@
+READING: Frost, A. A; Campo, M.J. (2007, December 2).  Advancing Defect Containment to Quantitative Defect Management 
+                    [Online] Available: http://www.crosstalkonline.org/storage/issue-archives/2007/200712/200712...
+READING: Schofield, J. (2007, August 1). Beyond Defect Removal: Latent Defect Estimation With Capture-Recapture Method
+                    [Online] Available: http://www.crosstalkonline.org/storage/issue-archives/2007/200708/200708...
+READING: Biffl S. (2000, November/December). Using Inspection Data for Defect Estimation
+                    [Online] Available: http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=00895166
+QUIZ:          IMS QTI 2.0 format  (ZIP)
+                    Moodle XML format(XML)
+                    XHTML Format (HTML)

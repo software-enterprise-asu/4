@@ -1,0 +1,2892 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+  <!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/Default for Software Enterprise IV: Process and Project Management</text>
+    </category>
+  </question>
+  <!-- question: 32  -->
+  <question type="essay">
+    <name>
+      <text>Estimates: distrust</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The authors suggest that distrust may arise during the estimation process between project managers and developers. What do they suggest as root causes for this mistrust? Do you agree with their hypothesis?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text>the authors suggest that their lack of development expertise is the root cause, and therefore they are more likely to accept estimates they do not understand, and not likely to accept estimates for soft tasks. Do you agree with this? What if the PM is a seasoned developer?</text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 15  -->
+  <question type="essay">
+    <name>
+      <text>EV and SW Dev</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[Consider the steps 1-9 that the author describes in the section "How Do We Use Earned Value?"  Even though we haven't covered WBSs yet, consider the steps and discuss whether you believe it is a good idea to use this process, EXACTLY AS PRESENTED, for software development projects.]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 13  -->
+  <question type="essay">
+    <name>
+      <text>EV essay</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Explain why it is not sufficient to simply measure how many hours your team is working and compare it against how many hours you expected to work over a given sprint. What extra dimension to measuring the work does Earned Value add?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 160  -->
+  <question type="essay">
+    <name>
+      <text>EXAM: Diamond</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[<p>
+We have used the "diamond" metaphor for talking about the relationships between the constraints on a software project. For example, one constraint is "TIME", which was fixed for your projects, and another constraint is QUALITY. Answer the following:
+</p>
+<p>
+<OL>
+<LI>
+List the other 2 corners of the diamond, and give a sentence or two describing what it is and why it is important.
+</LI>
+<LI>
+Pick either of the 2 you just described, and discuss how it relates to, and impacts QUALITY. For example, I might say that TIME impacts QUALITY in that if the customer moves the project deadline closer, I may decrease the Quality of the product as I do not have enough time to (<i>you take it from here with another constraint</i>)...
+</LI>
+<LI>
+What is in the middle of the diamond? Why is it most <i>central</i> of all?
+</LI>
+</OL>
+</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 158  -->
+  <question type="essay">
+    <name>
+      <text>EXAM: PM1</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[<p>
+Step 2 of the Postmortem process is "Cllect objective information". Answer the following:
+</p>
+<p>
+<OL>
+<LI>
+If you had ONLY ONE PRODUCT-related piece of objective information you could collect for a Postmortem, what would it be and why?
+</LI>
+<LI>
+If you had ONLY ONE PROCESS-related piece of objective information you could collect for a Postmortem, what would it be and why?
+</LI>
+</OL>
+</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 159  -->
+  <question type="essay">
+    <name>
+      <text>EXAM: PM2</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[Step 3 of the Postmortem process is "Conduct a debriefing meeting" and Step 4 is "Have a Project History Day". For each of these steps, indicate WHO participates, and WHAT the primary goal of each step is.]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 157  -->
+  <question type="essay">
+    <name>
+      <text>EXAM: TaskPlanningScheduling1</text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[<p><string>Warning: Long question!!!</strong></p>
+<p>
+Below is a WBS in outline format and a set of
+dependencies across the WBS. Best, average, and worst case estimates of the amount of time to perform each work package are in parenthesis next to the package.
+</p>
+<p>
+Answer the following questions (number your answers below!):
+</p>
+<p>
+On a separate piece of paper, convert the WBS to a PERT chart. The network should include tasks for all work packages (leaf nodes) in the WBS. Use the dependency information provided below. For each node, compute the weighted estimate using our standard PERT formula: <br/>
+(best case + 4 * expected + worst case) / 6
+<br/>
+</p>
+
+<p>
+<OL>
+<LI>What are the weighted estimates for npdes 1.1, 2.2, and 3.2.2?
+</LI>
+<LI>
+Identify the Critical Path and its duration by using the weighted estimates from the PERT chart. List the critical path in order.
+</LI>
+<LI>
+What are the early start time and the last finish time for node 1.2?
+</LI>
+<LI>
+Considering just the best, expected, and worst case estimates, which node (other than node 0 or node 4) has the LOWEST RISK and why?
+</LI>
+<LI>
+Assume tasks 1.2 and 2.1 may only be performed by a DBA, and you only have one DBA in your organization. How would this impact your answer in part 2?
+</LI>
+</OL>
+</p>
+<p>
+<font size=-1>
+<Table border=1>
+<tr>
+<td><strong>WBS (best, expected, worst case estimates in days):</strong></td>
+<td><strong>Dependency information</strong></td></tr>
+<tr><td>
+0. Project Kickoff meeting (1, 1, 1)
+</td><td>D0) Task 0 completes before anything else starts</td></tr>
+<tr><td>
+1. Create database schema</td><td> D1) 1.1 must complete before 1.2 starts</td></tr>
+<tr><td>
+1.1 Create DDL scripts (2, 7, 12) </td>
+<td>
+D2) 1.1 must complete before 2.1 starts </td>
+<td></tr><tr><td>
+1.2 Create DML scripts (3, 4, 5) </td>
+<td> D3) 1.2 must complete before 2.2 starts </td>
+</tr>
+<tr><td>
+2. Implement data access tier</td><td></td></tr>
+<tr><td>
+2.1 Generate Java Value Objects (9, 16, 29)
+</td><td></td></tr><tr><td>
+2.2 Implement DAO objects (12, 15, 24)</td><td></td></tr><tr><td>
+3. Implement presentation tier</td><td></td></tr><tr><td>
+3.1 Develop Javascript (2, 11, 26)</td><td>
+D4) 3.1 must complete before 3.2.1 starts</td></tr><tr><td>
+3.2. Develop markup templates </td><td></td></tr><tr><td>
+3.2.1 Develop HTML templates (2, 5, 8)</td>
+<td> D5) 3.2.1 must complete before 3.2.2 starts </td></tr><tr><td>
+3.2.2 Develop CSS for skins/themes (7, 12, 17) </td></tr><tr><td>
+4. Project wrap-up meeting (1, 1, 1)</td><td>
+D6) Task 4 starts after all other tasks end
+</td></tr>
+</Table>
+</font>
+</p>]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 156  -->
+  <question type="essay">
+    <name>
+      <text>EXAM: Test2</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[Microsquash is a brand new software company readying its first software product release
+for the marketplace. It plans on spending 1 month in Functional/System Test, 1 month in Benchmark Test, and 1 month in Pilot Test. However, Sales & Marketing has decided that the product must go to market in 2 months. As Quality Manager, you must cancel one of the test types to make the schedule. Which choice would you make and why, based on Microsquash' situation?]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 58  -->
+  <question type="matching">
+    <name>
+      <text>DEFECTS: Definitions</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Select the term that best matches the description</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>The creation or insertion of a bug</text>
+      <answer>
+        <text>defect injection</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>The phase when a bug is found</text>
+      <answer>
+        <text>defect discovery</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>The phase when a bug is fixed or otherwise resolved</text>
+      <answer>
+        <text>defect removal</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 33  -->
+  <question type="matching">
+    <name>
+      <text>Estimation: methods</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the estimation method with its description</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>A technique where an individual makes an estimate based on a similar software module s/he had previously constructed.</text>
+      <answer>
+        <text>Proxy-based Estimating (PROBE)</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>An algorithmic estimation technique where variables representing different project attributes are input and a single value is output.</text>
+      <answer>
+        <text>Constructive Cost Model (COCOMO)</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>An Agile method of negotiation where developers and customers work together to agree on estimates and priorities.</text>
+      <answer>
+        <text>The Planning Game</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Am iterative team-oriented process where successive rounds are meant to help the team converge on an agreed estimate</text>
+      <answer>
+        <text>Wideband Delphi</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 34  -->
+  <question type="matching">
+    <name>
+      <text>Estimation: Reasons for poor estimates</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the estimation problem with a possible cause of that problem</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>Overoptimism by software engineers</text>
+      <answer>
+        <text>padded estimates</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>A fear of reprisal</text>
+      <answer>
+        <text>padded estimates</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>The project leader is the sole source of the estimate</text>
+      <answer>
+        <text>self-fulfilling prophecy</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Deadline-driven estimation</text>
+      <answer>
+        <text>self-fulfilling prophecy</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 12  -->
+  <question type="matching">
+    <name>
+      <text>EV term matching</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the acronym with the informal definition of the concept it represents.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>This is the costs spent on the project to date</text>
+      <answer>
+        <text>ACWP</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>This is the original planned cost of doing the work that has been completed so far</text>
+      <answer>
+        <text>BCWP</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>This is how much the work is expected to cost over the lifetime of the project</text>
+      <answer>
+        <text>BCWS</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 155  -->
+  <question type="matching">
+    <name>
+      <text>EXAM: Test1</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Match the test type with the appropriate description</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <subquestion>
+      <text>
+        <![CDATA[Tests a module against "ground truth"]]>
+</text>
+      <answer>
+        <text>Benchmark test</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>You think your product is 100% ready to go</text>
+      <answer>
+        <text>Release Candidate</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Often has contractual implications</text>
+      <answer>
+        <text>Acceptance test</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Tests system performance under a heavy load</text>
+      <answer>
+        <text>Stress test</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>These tests are done by developers</text>
+      <answer>
+        <text>Unit test</text>
+      </answer>
+    </subquestion>
+    <subquestion>
+      <text>Tests the interfaces between components</text>
+      <answer>
+        <text>Integration test</text>
+      </answer>
+    </subquestion>
+  </question>
+  <!-- question: 57  -->
+  <question type="multichoice">
+    <name>
+      <text>DEFECT C: Injection</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Experts say there are between ____ and ____ defects injected for every 1000 lines of code</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>50, 100</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>8, 10</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>25, 50</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>100, 200</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 60  -->
+  <question type="multichoice">
+    <name>
+      <text>DEFECT C: QDM</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The key factors to effectively using QDM for defect containment include (select ALL that apply):</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>Utilize consistent definitions for terms</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Automate data collection and reporting</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Use past data to analyze current performance</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Train all levels of personnel</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Do not target individuals</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 63  -->
+  <question type="multichoice">
+    <name>
+      <text>DEFECT I: crm</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The author suggests Capture-Recapture be used in conjunction with what kind of defect discovery technique?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>Code reviews</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Static analysis</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Unit testing</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Functional testing</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Prototyping</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 30  -->
+  <question type="multichoice">
+    <name>
+      <text>Estimates: assumptions</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Select all of the following which are true regarding assumptions and the estimation process</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>assmuptions add uncertainty to the estimate</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>incorrect assumptions should cause the schedule and estimates to be revised</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>a team should hold brainstorming sessions or other techniques to identify as many assumptions as possible</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>assumptions must be written down</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>the presence of assumptions means the team has only reached a temporary decision</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.666">
+      <text>identifying assumptions can wait until later in the project</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 31  -->
+  <question type="multichoice">
+    <name>
+      <text>Estimates: stakeholders</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Select all of the following stakeholder types that should participate in the estimation process</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>developers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>quality assurance people</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.666">
+      <text>end users</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.666">
+      <text>customers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>operations support people</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>project managers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 29  -->
+  <question type="multichoice">
+    <name>
+      <text>Estimation: Successful Estimates</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Select all of the following which are true about successful estimates</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-20">
+      <text>they are guaranteed to be accurate</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>prior experience does not help</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>they may vary based on different people's assumptions</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>good estimates often start with a WBS</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 10  -->
+  <question type="multichoice">
+    <name>
+      <text>EV activities</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Value is earned on a project when _________ are completed.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>user stories</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>use cases</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>work items</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>modules</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>activities</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 11  -->
+  <question type="multichoice">
+    <name>
+      <text>EV measures</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>What units of measurement are often used for EV?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>money</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>story points</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>labor (work hours)</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>requirements completed</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>lines of code</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 14  -->
+  <question type="multichoice">
+    <name>
+      <text>EV Wilkins Figure 2</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The author uses Figure 2 to explain several terms. But Figure 2 also paints a picture of a project. Based on Figure 2, the project it depicts is:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>On time and within budget</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>On time but over budget</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>Not on time but within budget</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Not on time and over budget</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 7  -->
+  <question type="multichoice">
+    <name>
+      <text>EVA introduced when</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[The concept of "earned values" was introduced in the __________  and has been in use by the DoD since the _________]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>1900s, 1960s</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>1800s, 1860s</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>1960s, 1999</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>1800s, 1960s</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>1800s, 1990s</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 132  -->
+  <question type="multichoice">
+    <name>
+      <text>Postmortem: Metrics</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The authors suggest collection objective metrics in the categories of</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="33.333">
+      <text>quality</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>schedule</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>cost</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>expectations</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>scope</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 130  -->
+  <question type="multichoice">
+    <name>
+      <text>Postmortem: process steps</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The steps of the defined process the authors propose include:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>Design and distribute a survey</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Collective objective information</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Debrief the team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Conduct a project history day</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Publish the results</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-14.2857">
+      <text>Assign blame</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-14.2857">
+      <text>Look for a new job</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 47  -->
+  <question type="multichoice">
+    <name>
+      <text>Risk: Assessment steps</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>According to Boehm, risk assessment is comprised of which of the following steps:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-12.5">
+      <text>management</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>control</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>identification</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>analysis</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>prioritization</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>planning</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>resolution</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>monitoring</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 48  -->
+  <question type="multichoice">
+    <name>
+      <text>Risk: control steps</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>According to Boehm, risk control is comprised of which of the following steps:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="-12.5">
+      <text>assessment</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>management</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>identification</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>analysis</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>prioritization</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>planning</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>resolution</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="33.333">
+      <text>monitoring</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 46  -->
+  <question type="multichoice">
+    <name>
+      <text>Risk: Top-level steps</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>According to Boehm, risk management is comprised of which of the following top-level steps:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>assessment</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>control</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>identification</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>analysis</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>prioritization</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>planning</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>resolution</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>monitoring</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 45  -->
+  <question type="multichoice">
+    <name>
+      <text>Risk: Tree</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Suppose on your project you are concerned your customer thinks a user story you omitted from the SRS will be included in the product. You figure the probability of this is 30%, but it would add 50 hours to your team's workload. You could spend 4 hours meeting with the customer, but there is only a 20% chance you will eliminate the risk. What is your risk exposure to 1) the original user story risk? 2) to the risk if you meet with her? 3) Do you meet with her?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>15 hours, 16 hours, no</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>15 hours, 16 hours, yes</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>50 hours, 54 hours, no</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>50 hours, 4 hours, yes</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 86  -->
+  <question type="multichoice">
+    <name>
+      <text>Task Planning: predecessor</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following are predecessor relationships between tasks?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>start-to-finish</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>start-to-start</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>finish-to-finish</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>finish-to-start</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>in parallel</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>concurrently</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>start-to-middle</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-12.5">
+      <text>finish-to-middle</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 84  -->
+  <question type="multichoice">
+    <name>
+      <text>TaskPlanning: resource1</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[Which of the following are examples of "resources"?]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="25">
+      <text>people</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>money</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>servers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>software</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="25">
+      <text>conference room</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 111  -->
+  <question type="multichoice">
+    <name>
+      <text>TESTING: automation</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Test automation tools rely on these kinds of techniques to define test interactions:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>record and playback</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>scripting</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>virtual servers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-25">
+      <text>OS event capture</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 104  -->
+  <question type="multichoice">
+    <name>
+      <text>TESTING: complete</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Testing is complete when any of the following are true:</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="50">
+      <text>no defects are found</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>all defects found satisfy an acceptance criteria</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>after a finite period of time</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>when qa gets tired of testing it</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-20">
+      <text>when the customer says so</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 105  -->
+  <question type="multichoice">
+    <name>
+      <text>TESTING: goal</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The goal of test execution is to</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>find and remove every defect</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>make the organization aware of issues encountered during testing</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>verify the test script</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>validate the requirements</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 113  -->
+  <question type="multichoice">
+    <name>
+      <text>TESTING: Myths</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Which of the following are false statements about software testers?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="20">
+      <text>Anyone can be a tester, it involves no skills or training</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Testers make poor project managers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Testers like to criticize developers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Testers must be nasty</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="20">
+      <text>Testers are dumber than programmers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="-16.666">
+      <text>Testers should work in a different building than programmers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 100  -->
+  <question type="multichoice">
+    <name>
+      <text>TESTING: quality resp</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The quality of a software product is whose responsibility?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>the entire team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>the project manager</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>the architect</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>the developers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>the quality assurance team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>the application support team</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 103  -->
+  <question type="multichoice">
+    <name>
+      <text>TESTING: regression</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A type of test focusing on making sure any changes have not broken existing functionality is called</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>alpha build</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>beta build</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>unit test</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>regression test</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>acceptance test</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 109  -->
+  <question type="multichoice">
+    <name>
+      <text>TESTING: smoke</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A subset of test cases representative of the entire test plan is called a _________</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="0">
+      <text>alpha build</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>beta build</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>regression test</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>acceptance test</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>smoke test</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 101  -->
+  <question type="multichoice">
+    <name>
+      <text>TESTING: test case defn</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The description of a specific interaction with the system to test a single behavior is called the test ______</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback>
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback>
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback>
+      <text></text>
+    </incorrectfeedback>
+    <answernumbering>abc</answernumbering>
+    <answer fraction="100">
+      <text>case</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>script</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>plan</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>document</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>execution</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 44  -->
+  <question type="numerical">
+    <name>
+      <text>Risk: RE calculation</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Suppose the probability of some unfortunate outcome on your project is 20%, and the loss would be defined as 30 hours of extra work time. What is the resulting risk exposure?</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>6</text>
+      <tolerance></tolerance>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 59  -->
+  <question type="shortanswer">
+    <name>
+      <text>DEFECT C: Fix time</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>According to Humphrey, a Requirements defect that takes one hour to fix in-phase takes ____ hours to fix in the Coding phase</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>10</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>3</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>70</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 62  -->
+  <question type="shortanswer">
+    <name>
+      <text>DEFECT I: process</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Defects found during testing reveal as much about the adequacy _____ (1 word) as they do the quality of the product.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>process</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 28  -->
+  <question type="shortanswer">
+    <name>
+      <text>Estimates: process</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Estimates are a highly _____ process</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>subjective</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 129  -->
+  <question type="shortanswer">
+    <name>
+      <text>Postmortem: court</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Many companies do not want to share their postmortem because they worry they will end up in _______, explaining to a judge and jury explaining their failures.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>court</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 134  -->
+  <question type="shortanswer">
+    <name>
+      <text>Postmortem: history</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The main purpose of Project History Day is to determine the _____ ________ of project issues so process improvement activities can address them.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>root cause*</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 43  -->
+  <question type="shortanswer">
+    <name>
+      <text>Risk: FIB</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Successful project managers are</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>good risk managers</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 50  -->
+  <question type="shortanswer">
+    <name>
+      <text>Risk: RE relative scale</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>One possible way to address the problem of accurately estimating P(UO) and L(UO) is to use values on a ____________ of 0 to 10.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>relative scale</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="50">
+      <text>*relative*</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 91  -->
+  <question type="shortanswer">
+    <name>
+      <text>Task Planning: baseline</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The initial schedule against which changes should be measured is called the _________________</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>baseline</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 90  -->
+  <question type="shortanswer">
+    <name>
+      <text>Task Planning: buffers</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>
+        <![CDATA[Extra "empty" tasks added to a schedule are called _____________]]>
+</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>buffer*</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 89  -->
+  <question type="shortanswer">
+    <name>
+      <text>Task Planning: criticalpath</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The sequence of tasks that comprises the minimum time to complete the project is called the</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>critical path</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 85  -->
+  <question type="shortanswer">
+    <name>
+      <text>Task Planning: dependency</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>When a task involves an activity, resource, or work product that is also subsequently required by another task, then it has a _____ on that other task.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>depend*</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 87  -->
+  <question type="shortanswer">
+    <name>
+      <text>Task Planning: Gantt</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The most common type of scheduling chart is the ______________ chart</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>Gantt</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 88  -->
+  <question type="shortanswer">
+    <name>
+      <text>Task Planning: slack</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The amount of time a task in a sequence can be delayed without delaying the last task in the sequence is called the _____________</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>slack</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 99  -->
+  <question type="shortanswer">
+    <name>
+      <text>TESTING: quality defn</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Your textbook defines quality as ____________</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>conform* to req*</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 106  -->
+  <question type="shortanswer">
+    <name>
+      <text>TESTING: triage</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>the process of reviewing a defect in the defect tracking system and assigning it a priority for repair is called ______________</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <usecase>0</usecase>
+    <answer fraction="100">
+      <text>triage</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 61  -->
+  <question type="truefalse">
+    <name>
+      <text>DEFECT C: Rayleigh curve</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Defect removal times should trend by phase differently than defect injection rates per phase</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 8  -->
+  <question type="truefalse">
+    <name>
+      <text>Earned Value definition</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Earned Values are a measure of project effort</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text>Correct, it is not a measure of effort but a measure of progress</text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 9  -->
+  <question type="truefalse">
+    <name>
+      <text>EV definition 2</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Earned Value refers to a methodology</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 133  -->
+  <question type="truefalse">
+    <name>
+      <text>Postmortem: debrief</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Debriefing meetings that allow team members to vent project frustrations are always bad.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 128  -->
+  <question type="truefalse">
+    <name>
+      <text>Postmortem: failures</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A postmortem is a cataloging and understanding of your successes</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 135  -->
+  <question type="truefalse">
+    <name>
+      <text>Postmortem: results</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>It is important to publish results only to management so they know who to blame (and whom to possibly fire).</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 131  -->
+  <question type="truefalse">
+    <name>
+      <text>Postmortem: Survey</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Some of the survey questions used on different projects should be the same so you can compare answers and look for commonalities.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 49  -->
+  <question type="truefalse">
+    <name>
+      <text>Risk: RE barrier</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A significant issue with the Risk Exposure calculation is the ability to accurately estimate what P(UO) and L(UO) values are.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 110  -->
+  <question type="truefalse">
+    <name>
+      <text>TESTING: Automation vs. manual</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Defining automated tests takes more effort than manual testing.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 112  -->
+  <question type="truefalse">
+    <name>
+      <text>TESTING: Automation vs. manual exec</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Executing automated tests takes more effort than manual testing.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 107  -->
+  <question type="truefalse">
+    <name>
+      <text>TESTING: role of tester</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>The tester is responsible for determining the impact of a defect on the organization's business value.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 102  -->
+  <question type="truefalse">
+    <name>
+      <text>TESTING: test case vs. use case</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>A test case is like a use case in that both of them detail the exact sequence of user interface actions (pressing buttons, hotkeys, drag-n-drop, etc.) needed to exercise system functionality.</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="0">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+  <!-- question: 108  -->
+  <question type="truefalse">
+    <name>
+      <text>TESTING: tester reporting</text>
+    </name>
+    <questiontext format="moodle_auto_format">
+      <text>Testers are only responsible for reporting what they see when they use the software</text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+    <answer fraction="100">
+      <text>true</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0">
+      <text>false</text>
+      <feedback>
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

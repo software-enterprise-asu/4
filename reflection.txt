@@ -1,0 +1,9 @@
+Do you think CRM is a useful technique to do on real software projects?
+Do you think CRM will benefit your capstone project? How will it, how will it not?
+In general, what do you think the main benefits and challenges are in defect estimation?
+In general, what do you think the main benefits and challenges are in defect containment?
+Where/how have you applied CRM on your project? (If you have not, explain why not)
+Did the CRM work as you expected on the project?
+In general, what do you think the main benefits and challenges are in defect estimation?
+In general, what do you think the main benefits and challenges are in defect containment?
+Please provide any additional observations on CRM, defect estimation, or defect containment as desired. 

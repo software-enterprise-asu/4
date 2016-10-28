@@ -1,0 +1,1097 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Moodle Quiz XHTML Export</title>
+<style>
+   body {
+     font-family: Verdana, Helvetica, Sans-Serif;
+     background-color: #fff;
+     color: #000;
+   }
+   
+   .question {
+     border: 1px solid #ddd;
+     margin: 5px;
+     padding: 3px;
+     }  
+     
+   .question h3 {
+     font-weight: normal;
+     font-size: 125%;
+   }    
+   
+   .question ul {
+     list-style-type: none;
+   }  
+ 
+ </style>
+ 
+</head>
+<body>
+<form action="...REPLACE ME..." method="post">
+
+
+<!-- question: 32  name: Estimates: distrust -->
+<div class="question">
+<h3>Estimates: distrust</h3>
+<p class="questiontext"><p>The authors suggest that distrust may arise during the estimation process between project managers and developers. What do they suggest as root causes for this mistrust? Do you agree with their hypothesis?</p></p>
+</div>
+
+
+
+<!-- question: 15  name: EV and SW Dev -->
+<div class="question">
+<h3>EV and SW Dev</h3>
+<p class="questiontext"><p>Consider the steps 1-9 that the author describes in the section &quot;How Do We Use Earned Value?&quot;  Even though we haven't covered WBSs yet, consider the steps and discuss whether you believe it is a good idea to use this process, EXACTLY AS PRESENTED, for software development projects.</p></p>
+</div>
+
+
+
+<!-- question: 13  name: EV essay -->
+<div class="question">
+<h3>EV essay</h3>
+<p class="questiontext"><p>Explain why it is not sufficient to simply measure how many hours your team is working and compare it against how many hours you expected to work over a given sprint. What extra dimension to measuring the work does Earned Value add?</p></p>
+</div>
+
+
+
+<!-- question: 160  name: EXAM: Diamond -->
+<div class="question">
+<h3>EXAM: Diamond</h3>
+<p class="questiontext"><p></p><p> <br />
+We have used the &quot;diamond&quot; metaphor for talking about the relationships between the constraints on a software project. For example, one constraint is &quot;TIME&quot;, which was fixed for your projects, and another constraint is QUALITY. Answer the following:<br /></p><p></p><ol><li> <br />
+List the other 2 corners of the diamond, and give a sentence or two describing what it is and why it is important.<br /></li><li> <br />
+Pick either of the 2 you just described, and discuss how it relates to, and impacts QUALITY. For example, I might say that TIME impacts QUALITY in that if the customer moves the project deadline closer, I may decrease the Quality of the product as I do not have enough time to (<i>you take it from here with another constraint</i>)...<br /></li><li> <br />
+What is in the middle of the diamond? Why is it most <i>central</i> of all?<br /></li></ol></p>
+</div>
+
+
+
+<!-- question: 158  name: EXAM: PM1 -->
+<div class="question">
+<h3>EXAM: PM1</h3>
+<p class="questiontext"><p></p><p> <br />
+Step 2 of the Postmortem process is &quot;Cllect objective information&quot;. Answer the following:<br /></p><p></p><ol><li> <br />
+If you had ONLY ONE PRODUCT-related piece of objective information you could collect for a Postmortem, what would it be and why?<br /></li><li> <br />
+If you had ONLY ONE PROCESS-related piece of objective information you could collect for a Postmortem, what would it be and why?<br /></li></ol></p>
+</div>
+
+
+
+<!-- question: 159  name: EXAM: PM2 -->
+<div class="question">
+<h3>EXAM: PM2</h3>
+<p class="questiontext"><p>Step 3 of the Postmortem process is &quot;Conduct a debriefing meeting&quot; and Step 4 is &quot;Have a Project History Day&quot;. For each of these steps, indicate WHO participates, and WHAT the primary goal of each step is.</p></p>
+</div>
+
+
+
+<!-- question: 157  name: EXAM: TaskPlanningScheduling1 -->
+<div class="question">
+<h3>EXAM: TaskPlanningScheduling1</h3>
+<p class="questiontext"><p>Warning: Long question!!!</p>
+<p>
+Below is a WBS in outline format and a set of
+dependencies across the WBS. Best, average, and worst case estimates of the amount of time to perform each work package are in parenthesis next to the package.
+</p>
+<p>
+Answer the following questions (number your answers below!):
+</p>
+<p>
+On a separate piece of paper, convert the WBS to a PERT chart. The network should include tasks for all work packages (leaf nodes) in the WBS. Use the dependency information provided below. For each node, compute the weighted estimate using our standard PERT formula: <br />
+(best case + 4 * expected + worst case) / 6
+<br /></p>
+
+<p></p><ol><li>What are the weighted estimates for npdes 1.1, 2.2, and 3.2.2?
+</li>
+<li>
+Identify the Critical Path and its duration by using the weighted estimates from the PERT chart. List the critical path in order.
+</li>
+<li>
+What are the early start time and the last finish time for node 1.2?
+</li>
+<li>
+Considering just the best, expected, and worst case estimates, which node (other than node 0 or node 4) has the LOWEST RISK and why?
+</li>
+<li>
+Assume tasks 1.2 and 2.1 may only be performed by a DBA, and you only have one DBA in your organization. How would this impact your answer in part 2?
+</li>
+</ol><p>
+<font size="-1"></font></p><table border="1"><tr><td><strong>WBS (best, expected, worst case estimates in days):</strong></td>
+<td><strong>Dependency information</strong></td></tr><tr><td>
+0. Project Kickoff meeting (1, 1, 1)
+</td><td>D0) Task 0 completes before anything else starts</td></tr><tr><td>
+1. Create database schema</td><td> D1) 1.1 must complete before 1.2 starts</td></tr><tr><td>
+1.1 Create DDL scripts (2, 7, 12) </td>
+<td>
+D2) 1.1 must complete before 2.1 starts </td>
+<td></td></tr><tr><td>
+1.2 Create DML scripts (3, 4, 5) </td>
+<td> D3) 1.2 must complete before 2.2 starts </td>
+</tr><tr><td>
+2. Implement data access tier</td><td></td></tr><tr><td>
+2.1 Generate Java Value Objects (9, 16, 29)
+</td><td></td></tr><tr><td>
+2.2 Implement DAO objects (12, 15, 24)</td><td></td></tr><tr><td>
+3. Implement presentation tier</td><td></td></tr><tr><td>
+3.1 Develop Javascript (2, 11, 26)</td><td>
+D4) 3.1 must complete before 3.2.1 starts</td></tr><tr><td>
+3.2. Develop markup templates </td><td></td></tr><tr><td>
+3.2.1 Develop HTML templates (2, 5, 8)</td>
+<td> D5) 3.2.1 must complete before 3.2.2 starts </td></tr><tr><td>
+3.2.2 Develop CSS for skins/themes (7, 12, 17) </td></tr><tr><td>
+4. Project wrap-up meeting (1, 1, 1)</td><td>
+D6) Task 4 starts after all other tasks end
+</td></tr></table>
+</p>
+</div>
+
+
+
+<!-- question: 156  name: EXAM: Test2 -->
+<div class="question">
+<h3>EXAM: Test2</h3>
+<p class="questiontext"><p>Microsquash is a brand new software company readying its first software product release<br />
+for the marketplace. It plans on spending 1 month in Functional/System Test, 1 month in Benchmark Test, and 1 month in Pilot Test. However, Sales &amp; Marketing has decided that the product must go to market in 2 months. As Quality Manager, you must cancel one of the test types to make the schedule. Which choice would you make and why, based on Microsquash' situation?</p></p>
+</div>
+
+
+
+<!-- question: 58  name: DEFECTS: Definitions -->
+<div class="question">
+<h3>DEFECTS: Definitions</h3>
+<p class="questiontext"><p>Select the term that best matches the description</p></p>
+<ul class="match">
+  <li>The creation or insertion of a bug</li>
+<select name="quest_58">
+<option value="defect injection">defect injection</option>
+<option value="defect discovery">defect discovery</option>
+<option value="defect removal">defect removal</option>
+</select>
+  <li>The phase when a bug is found</li>
+<select name="quest_58">
+<option value="defect injection">defect injection</option>
+<option value="defect discovery">defect discovery</option>
+<option value="defect removal">defect removal</option>
+</select>
+  <li>The phase when a bug is fixed or otherwise resolved</li>
+<select name="quest_58">
+<option value="defect injection">defect injection</option>
+<option value="defect discovery">defect discovery</option>
+<option value="defect removal">defect removal</option>
+</select>
+</ul>
+</div>
+
+
+
+<!-- question: 33  name: Estimation: methods -->
+<div class="question">
+<h3>Estimation: methods</h3>
+<p class="questiontext"><p>Match the estimation method with its description</p></p>
+<ul class="match">
+  <li>A technique where an individual makes an estimate based on a similar software module s/he had previously constructed.</li>
+<select name="quest_33">
+<option value="The Planning Game">The Planning Game</option>
+<option value="Constructive Cost Model (COCOMO)">Constructive Cost Model (COCOMO)</option>
+<option value="Wideband Delphi">Wideband Delphi</option>
+<option value="Proxy-based Estimating (PROBE)">Proxy-based Estimating (PROBE)</option>
+</select>
+  <li>An algorithmic estimation technique where variables representing different project attributes are input and a single value is output.</li>
+<select name="quest_33">
+<option value="The Planning Game">The Planning Game</option>
+<option value="Constructive Cost Model (COCOMO)">Constructive Cost Model (COCOMO)</option>
+<option value="Wideband Delphi">Wideband Delphi</option>
+<option value="Proxy-based Estimating (PROBE)">Proxy-based Estimating (PROBE)</option>
+</select>
+  <li>An Agile method of negotiation where developers and customers work together to agree on estimates and priorities.</li>
+<select name="quest_33">
+<option value="The Planning Game">The Planning Game</option>
+<option value="Constructive Cost Model (COCOMO)">Constructive Cost Model (COCOMO)</option>
+<option value="Wideband Delphi">Wideband Delphi</option>
+<option value="Proxy-based Estimating (PROBE)">Proxy-based Estimating (PROBE)</option>
+</select>
+  <li>Am iterative team-oriented process where successive rounds are meant to help the team converge on an agreed estimate</li>
+<select name="quest_33">
+<option value="The Planning Game">The Planning Game</option>
+<option value="Constructive Cost Model (COCOMO)">Constructive Cost Model (COCOMO)</option>
+<option value="Wideband Delphi">Wideband Delphi</option>
+<option value="Proxy-based Estimating (PROBE)">Proxy-based Estimating (PROBE)</option>
+</select>
+</ul>
+</div>
+
+
+
+<!-- question: 34  name: Estimation: Reasons for poor estimates -->
+<div class="question">
+<h3>Estimation: Reasons for poor estimates</h3>
+<p class="questiontext"><p>Match the estimation problem with a possible cause of that problem</p></p>
+<ul class="match">
+  <li>Overoptimism by software engineers</li>
+<select name="quest_34">
+<option value="self-fulfilling prophecy">self-fulfilling prophecy</option>
+<option value="self-fulfilling prophecy">self-fulfilling prophecy</option>
+<option value="padded estimates">padded estimates</option>
+<option value="padded estimates">padded estimates</option>
+</select>
+  <li>A fear of reprisal</li>
+<select name="quest_34">
+<option value="self-fulfilling prophecy">self-fulfilling prophecy</option>
+<option value="self-fulfilling prophecy">self-fulfilling prophecy</option>
+<option value="padded estimates">padded estimates</option>
+<option value="padded estimates">padded estimates</option>
+</select>
+  <li>The project leader is the sole source of the estimate</li>
+<select name="quest_34">
+<option value="self-fulfilling prophecy">self-fulfilling prophecy</option>
+<option value="self-fulfilling prophecy">self-fulfilling prophecy</option>
+<option value="padded estimates">padded estimates</option>
+<option value="padded estimates">padded estimates</option>
+</select>
+  <li>Deadline-driven estimation</li>
+<select name="quest_34">
+<option value="self-fulfilling prophecy">self-fulfilling prophecy</option>
+<option value="self-fulfilling prophecy">self-fulfilling prophecy</option>
+<option value="padded estimates">padded estimates</option>
+<option value="padded estimates">padded estimates</option>
+</select>
+</ul>
+</div>
+
+
+
+<!-- question: 12  name: EV term matching -->
+<div class="question">
+<h3>EV term matching</h3>
+<p class="questiontext"><p>Match the acronym with the informal definition of the concept it represents.</p></p>
+<ul class="match">
+  <li>This is the costs spent on the project to date</li>
+<select name="quest_12">
+<option value="BCWP">BCWP</option>
+<option value="ACWP">ACWP</option>
+<option value="BCWS">BCWS</option>
+</select>
+  <li>This is the original planned cost of doing the work that has been completed so far</li>
+<select name="quest_12">
+<option value="BCWP">BCWP</option>
+<option value="ACWP">ACWP</option>
+<option value="BCWS">BCWS</option>
+</select>
+  <li>This is how much the work is expected to cost over the lifetime of the project</li>
+<select name="quest_12">
+<option value="BCWP">BCWP</option>
+<option value="ACWP">ACWP</option>
+<option value="BCWS">BCWS</option>
+</select>
+</ul>
+</div>
+
+
+
+<!-- question: 155  name: EXAM: Test1 -->
+<div class="question">
+<h3>EXAM: Test1</h3>
+<p class="questiontext"><p>Match the test type with the appropriate description</p></p>
+<ul class="match">
+  <li>Tests a module against "ground truth"</li>
+<select name="quest_155">
+<option value="Acceptance test">Acceptance test</option>
+<option value="Release Candidate">Release Candidate</option>
+<option value="Unit test">Unit test</option>
+<option value="Benchmark test">Benchmark test</option>
+<option value="Stress test">Stress test</option>
+<option value="Integration test">Integration test</option>
+</select>
+  <li>You think your product is 100% ready to go</li>
+<select name="quest_155">
+<option value="Acceptance test">Acceptance test</option>
+<option value="Release Candidate">Release Candidate</option>
+<option value="Unit test">Unit test</option>
+<option value="Benchmark test">Benchmark test</option>
+<option value="Stress test">Stress test</option>
+<option value="Integration test">Integration test</option>
+</select>
+  <li>Often has contractual implications</li>
+<select name="quest_155">
+<option value="Acceptance test">Acceptance test</option>
+<option value="Release Candidate">Release Candidate</option>
+<option value="Unit test">Unit test</option>
+<option value="Benchmark test">Benchmark test</option>
+<option value="Stress test">Stress test</option>
+<option value="Integration test">Integration test</option>
+</select>
+  <li>Tests system performance under a heavy load</li>
+<select name="quest_155">
+<option value="Acceptance test">Acceptance test</option>
+<option value="Release Candidate">Release Candidate</option>
+<option value="Unit test">Unit test</option>
+<option value="Benchmark test">Benchmark test</option>
+<option value="Stress test">Stress test</option>
+<option value="Integration test">Integration test</option>
+</select>
+  <li>These tests are done by developers</li>
+<select name="quest_155">
+<option value="Acceptance test">Acceptance test</option>
+<option value="Release Candidate">Release Candidate</option>
+<option value="Unit test">Unit test</option>
+<option value="Benchmark test">Benchmark test</option>
+<option value="Stress test">Stress test</option>
+<option value="Integration test">Integration test</option>
+</select>
+  <li>Tests the interfaces between components</li>
+<select name="quest_155">
+<option value="Acceptance test">Acceptance test</option>
+<option value="Release Candidate">Release Candidate</option>
+<option value="Unit test">Unit test</option>
+<option value="Benchmark test">Benchmark test</option>
+<option value="Stress test">Stress test</option>
+<option value="Integration test">Integration test</option>
+</select>
+</ul>
+</div>
+
+
+
+<!-- question: 57  name: DEFECT C: Injection -->
+<div class="question">
+<h3>DEFECT C: Injection</h3>
+<p class="questiontext"><p>Experts say there are between ____ and ____ defects injected for every 1000 lines of code</p></p>
+<ul class="multichoice">
+  <li><input name="quest_57" type="radio" value="50, 100" />50, 100</li>
+  <li><input name="quest_57" type="radio" value="8, 10" />8, 10</li>
+  <li><input name="quest_57" type="radio" value="25, 50" />25, 50</li>
+  <li><input name="quest_57" type="radio" value="100, 200" />100, 200</li>
+</ul>
+</div>
+
+
+
+<!-- question: 60  name: DEFECT C: QDM -->
+<div class="question">
+<h3>DEFECT C: QDM</h3>
+<p class="questiontext"><p>The key factors to effectively using QDM for defect containment include (select ALL that apply):</p></p>
+<ul class="multichoice">
+  <li><input name="quest_60" type="checkbox" value="Utilize consistent definitions for terms" />Utilize consistent definitions for terms</li>
+  <li><input name="quest_60" type="checkbox" value="Automate data collection and reporting" />Automate data collection and reporting</li>
+  <li><input name="quest_60" type="checkbox" value="Use past data to analyze current performance" />Use past data to analyze current performance</li>
+  <li><input name="quest_60" type="checkbox" value="Train all levels of personnel" />Train all levels of personnel</li>
+  <li><input name="quest_60" type="checkbox" value="Do not target individuals" />Do not target individuals</li>
+</ul>
+</div>
+
+
+
+<!-- question: 63  name: DEFECT I: crm -->
+<div class="question">
+<h3>DEFECT I: crm</h3>
+<p class="questiontext"><p>The author suggests Capture-Recapture be used in conjunction with what kind of defect discovery technique?</p></p>
+<ul class="multichoice">
+  <li><input name="quest_63" type="radio" value="Code reviews" />Code reviews</li>
+  <li><input name="quest_63" type="radio" value="Static analysis" />Static analysis</li>
+  <li><input name="quest_63" type="radio" value="Unit testing" />Unit testing</li>
+  <li><input name="quest_63" type="radio" value="Functional testing" />Functional testing</li>
+  <li><input name="quest_63" type="radio" value="Prototyping" />Prototyping</li>
+</ul>
+</div>
+
+
+
+<!-- question: 30  name: Estimates: assumptions -->
+<div class="question">
+<h3>Estimates: assumptions</h3>
+<p class="questiontext"><p>Select all of the following which are true regarding assumptions and the estimation process</p></p>
+<ul class="multichoice">
+  <li><input name="quest_30" type="checkbox" value="assmuptions add uncertainty to the estimate" />assmuptions add uncertainty to the estimate</li>
+  <li><input name="quest_30" type="checkbox" value="incorrect assumptions should cause the schedule and estimates to be revised" />incorrect assumptions should cause the schedule and estimates to be revised</li>
+  <li><input name="quest_30" type="checkbox" value="a team should hold brainstorming sessions or other techniques to identify as many assumptions as possible" />a team should hold brainstorming sessions or other techniques to identify as many assumptions as possible</li>
+  <li><input name="quest_30" type="checkbox" value="assumptions must be written down" />assumptions must be written down</li>
+  <li><input name="quest_30" type="checkbox" value="the presence of assumptions means the team has only reached a temporary decision" />the presence of assumptions means the team has only reached a temporary decision</li>
+  <li><input name="quest_30" type="checkbox" value="identifying assumptions can wait until later in the project" />identifying assumptions can wait until later in the project</li>
+</ul>
+</div>
+
+
+
+<!-- question: 31  name: Estimates: stakeholders -->
+<div class="question">
+<h3>Estimates: stakeholders</h3>
+<p class="questiontext"><p>Select all of the following stakeholder types that should participate in the estimation process</p></p>
+<ul class="multichoice">
+  <li><input name="quest_31" type="checkbox" value="developers" />developers</li>
+  <li><input name="quest_31" type="checkbox" value="quality assurance people" />quality assurance people</li>
+  <li><input name="quest_31" type="checkbox" value="end users" />end users</li>
+  <li><input name="quest_31" type="checkbox" value="customers" />customers</li>
+  <li><input name="quest_31" type="checkbox" value="operations support people" />operations support people</li>
+  <li><input name="quest_31" type="checkbox" value="project managers" />project managers</li>
+</ul>
+</div>
+
+
+
+<!-- question: 29  name: Estimation: Successful Estimates -->
+<div class="question">
+<h3>Estimation: Successful Estimates</h3>
+<p class="questiontext"><p>Select all of the following which are true about successful estimates</p></p>
+<ul class="multichoice">
+  <li><input name="quest_29" type="checkbox" value="they are guaranteed to be accurate" />they are guaranteed to be accurate</li>
+  <li><input name="quest_29" type="checkbox" value="prior experience does not help" />prior experience does not help</li>
+  <li><input name="quest_29" type="checkbox" value="they may vary based on different people's assumptions" />they may vary based on different people's assumptions</li>
+  <li><input name="quest_29" type="checkbox" value="good estimates often start with a WBS" />good estimates often start with a WBS</li>
+</ul>
+</div>
+
+
+
+<!-- question: 10  name: EV activities -->
+<div class="question">
+<h3>EV activities</h3>
+<p class="questiontext"><p>Value is earned on a project when _________ are completed.</p></p>
+<ul class="multichoice">
+  <li><input name="quest_10" type="radio" value="user stories" />user stories</li>
+  <li><input name="quest_10" type="radio" value="use cases" />use cases</li>
+  <li><input name="quest_10" type="radio" value="work items" />work items</li>
+  <li><input name="quest_10" type="radio" value="modules" />modules</li>
+  <li><input name="quest_10" type="radio" value="activities" />activities</li>
+</ul>
+</div>
+
+
+
+<!-- question: 11  name: EV measures -->
+<div class="question">
+<h3>EV measures</h3>
+<p class="questiontext"><p>What units of measurement are often used for EV?</p></p>
+<ul class="multichoice">
+  <li><input name="quest_11" type="checkbox" value="money" />money</li>
+  <li><input name="quest_11" type="checkbox" value="story points" />story points</li>
+  <li><input name="quest_11" type="checkbox" value="labor (work hours)" />labor (work hours)</li>
+  <li><input name="quest_11" type="checkbox" value="requirements completed" />requirements completed</li>
+  <li><input name="quest_11" type="checkbox" value="lines of code" />lines of code</li>
+</ul>
+</div>
+
+
+
+<!-- question: 14  name: EV Wilkins Figure 2 -->
+<div class="question">
+<h3>EV Wilkins Figure 2</h3>
+<p class="questiontext"><p>The author uses Figure 2 to explain several terms. But Figure 2 also paints a picture of a project. Based on Figure 2, the project it depicts is:</p></p>
+<ul class="multichoice">
+  <li><input name="quest_14" type="radio" value="On time and within budget" />On time and within budget</li>
+  <li><input name="quest_14" type="radio" value="On time but over budget" />On time but over budget</li>
+  <li><input name="quest_14" type="radio" value="Not on time but within budget" />Not on time but within budget</li>
+  <li><input name="quest_14" type="radio" value="Not on time and over budget" />Not on time and over budget</li>
+</ul>
+</div>
+
+
+
+<!-- question: 7  name: EVA introduced when -->
+<div class="question">
+<h3>EVA introduced when</h3>
+<p class="questiontext"><p>The concept of &quot;earned values&quot; was introduced in the __________  and has been in use by the DoD since the _________</p></p>
+<ul class="multichoice">
+  <li><input name="quest_7" type="radio" value="1900s, 1960s" />1900s, 1960s</li>
+  <li><input name="quest_7" type="radio" value="1800s, 1860s" />1800s, 1860s</li>
+  <li><input name="quest_7" type="radio" value="1960s, 1999" />1960s, 1999</li>
+  <li><input name="quest_7" type="radio" value="1800s, 1960s" />1800s, 1960s</li>
+  <li><input name="quest_7" type="radio" value="1800s, 1990s" />1800s, 1990s</li>
+</ul>
+</div>
+
+
+
+<!-- question: 132  name: Postmortem: Metrics -->
+<div class="question">
+<h3>Postmortem: Metrics</h3>
+<p class="questiontext"><p>The authors suggest collection objective metrics in the categories of</p></p>
+<ul class="multichoice">
+  <li><input name="quest_132" type="checkbox" value="quality" />quality</li>
+  <li><input name="quest_132" type="checkbox" value="schedule" />schedule</li>
+  <li><input name="quest_132" type="checkbox" value="cost" />cost</li>
+  <li><input name="quest_132" type="checkbox" value="expectations" />expectations</li>
+  <li><input name="quest_132" type="checkbox" value="scope" />scope</li>
+</ul>
+</div>
+
+
+
+<!-- question: 130  name: Postmortem: process steps -->
+<div class="question">
+<h3>Postmortem: process steps</h3>
+<p class="questiontext"><p>The steps of the defined process the authors propose include:</p></p>
+<ul class="multichoice">
+  <li><input name="quest_130" type="checkbox" value="Design and distribute a survey" />Design and distribute a survey</li>
+  <li><input name="quest_130" type="checkbox" value="Collective objective information" />Collective objective information</li>
+  <li><input name="quest_130" type="checkbox" value="Debrief the team" />Debrief the team</li>
+  <li><input name="quest_130" type="checkbox" value="Conduct a project history day" />Conduct a project history day</li>
+  <li><input name="quest_130" type="checkbox" value="Publish the results" />Publish the results</li>
+  <li><input name="quest_130" type="checkbox" value="Assign blame" />Assign blame</li>
+  <li><input name="quest_130" type="checkbox" value="Look for a new job" />Look for a new job</li>
+</ul>
+</div>
+
+
+
+<!-- question: 47  name: Risk: Assessment steps -->
+<div class="question">
+<h3>Risk: Assessment steps</h3>
+<p class="questiontext"><p>According to Boehm, risk assessment is comprised of which of the following steps:</p></p>
+<ul class="multichoice">
+  <li><input name="quest_47" type="checkbox" value="management" />management</li>
+  <li><input name="quest_47" type="checkbox" value="control " />control </li>
+  <li><input name="quest_47" type="checkbox" value="identification" />identification</li>
+  <li><input name="quest_47" type="checkbox" value="analysis" />analysis</li>
+  <li><input name="quest_47" type="checkbox" value="prioritization" />prioritization</li>
+  <li><input name="quest_47" type="checkbox" value="planning" />planning</li>
+  <li><input name="quest_47" type="checkbox" value="resolution" />resolution</li>
+  <li><input name="quest_47" type="checkbox" value="monitoring" />monitoring</li>
+</ul>
+</div>
+
+
+
+<!-- question: 48  name: Risk: control steps -->
+<div class="question">
+<h3>Risk: control steps</h3>
+<p class="questiontext"><p>According to Boehm, risk control is comprised of which of the following steps:</p></p>
+<ul class="multichoice">
+  <li><input name="quest_48" type="checkbox" value="assessment" />assessment</li>
+  <li><input name="quest_48" type="checkbox" value="management " />management </li>
+  <li><input name="quest_48" type="checkbox" value="identification" />identification</li>
+  <li><input name="quest_48" type="checkbox" value="analysis" />analysis</li>
+  <li><input name="quest_48" type="checkbox" value="prioritization" />prioritization</li>
+  <li><input name="quest_48" type="checkbox" value="planning" />planning</li>
+  <li><input name="quest_48" type="checkbox" value="resolution" />resolution</li>
+  <li><input name="quest_48" type="checkbox" value="monitoring" />monitoring</li>
+</ul>
+</div>
+
+
+
+<!-- question: 46  name: Risk: Top-level steps -->
+<div class="question">
+<h3>Risk: Top-level steps</h3>
+<p class="questiontext"><p>According to Boehm, risk management is comprised of which of the following top-level steps:</p></p>
+<ul class="multichoice">
+  <li><input name="quest_46" type="checkbox" value="assessment" />assessment</li>
+  <li><input name="quest_46" type="checkbox" value="control " />control </li>
+  <li><input name="quest_46" type="checkbox" value="identification" />identification</li>
+  <li><input name="quest_46" type="checkbox" value="analysis" />analysis</li>
+  <li><input name="quest_46" type="checkbox" value="prioritization" />prioritization</li>
+  <li><input name="quest_46" type="checkbox" value="planning" />planning</li>
+  <li><input name="quest_46" type="checkbox" value="resolution" />resolution</li>
+  <li><input name="quest_46" type="checkbox" value="monitoring" />monitoring</li>
+</ul>
+</div>
+
+
+
+<!-- question: 45  name: Risk: Tree -->
+<div class="question">
+<h3>Risk: Tree</h3>
+<p class="questiontext"><p>Suppose on your project you are concerned your customer thinks a user story you omitted from the SRS will be included in the product. You figure the probability of this is 30%, but it would add 50 hours to your team's workload. You could spend 4 hours meeting with the customer, but there is only a 20% chance you will eliminate the risk. What is your risk exposure to 1) the original user story risk? 2) to the risk if you meet with her? 3) Do you meet with her?</p></p>
+<ul class="multichoice">
+  <li><input name="quest_45" type="radio" value="15 hours, 16 hours, no" />15 hours, 16 hours, no</li>
+  <li><input name="quest_45" type="radio" value="15 hours, 16 hours, yes" />15 hours, 16 hours, yes</li>
+  <li><input name="quest_45" type="radio" value="50 hours, 54 hours, no" />50 hours, 54 hours, no</li>
+  <li><input name="quest_45" type="radio" value="50 hours, 4 hours, yes" />50 hours, 4 hours, yes</li>
+</ul>
+</div>
+
+
+
+<!-- question: 86  name: Task Planning: predecessor -->
+<div class="question">
+<h3>Task Planning: predecessor</h3>
+<p class="questiontext"><p>Which of the following are predecessor relationships between tasks?</p></p>
+<ul class="multichoice">
+  <li><input name="quest_86" type="checkbox" value="start-to-finish" />start-to-finish</li>
+  <li><input name="quest_86" type="checkbox" value="start-to-start" />start-to-start</li>
+  <li><input name="quest_86" type="checkbox" value="finish-to-finish" />finish-to-finish</li>
+  <li><input name="quest_86" type="checkbox" value="finish-to-start" />finish-to-start</li>
+  <li><input name="quest_86" type="checkbox" value="in parallel" />in parallel</li>
+  <li><input name="quest_86" type="checkbox" value="concurrently" />concurrently</li>
+  <li><input name="quest_86" type="checkbox" value="start-to-middle" />start-to-middle</li>
+  <li><input name="quest_86" type="checkbox" value="finish-to-middle" />finish-to-middle</li>
+</ul>
+</div>
+
+
+
+<!-- question: 84  name: TaskPlanning: resource1 -->
+<div class="question">
+<h3>TaskPlanning: resource1</h3>
+<p class="questiontext"><p>Which of the following are examples of &quot;resources&quot;?</p></p>
+<ul class="multichoice">
+  <li><input name="quest_84" type="checkbox" value="people" />people</li>
+  <li><input name="quest_84" type="checkbox" value="money" />money</li>
+  <li><input name="quest_84" type="checkbox" value="servers" />servers</li>
+  <li><input name="quest_84" type="checkbox" value="software" />software</li>
+  <li><input name="quest_84" type="checkbox" value="conference room" />conference room</li>
+</ul>
+</div>
+
+
+
+<!-- question: 111  name: TESTING: automation -->
+<div class="question">
+<h3>TESTING: automation</h3>
+<p class="questiontext"><p>Test automation tools rely on these kinds of techniques to define test interactions:</p></p>
+<ul class="multichoice">
+  <li><input name="quest_111" type="checkbox" value="record and playback" />record and playback</li>
+  <li><input name="quest_111" type="checkbox" value="scripting" />scripting</li>
+  <li><input name="quest_111" type="checkbox" value="virtual servers" />virtual servers</li>
+  <li><input name="quest_111" type="checkbox" value="OS event capture" />OS event capture</li>
+</ul>
+</div>
+
+
+
+<!-- question: 104  name: TESTING: complete -->
+<div class="question">
+<h3>TESTING: complete</h3>
+<p class="questiontext"><p>Testing is complete when any of the following are true:</p></p>
+<ul class="multichoice">
+  <li><input name="quest_104" type="checkbox" value="no defects are found" />no defects are found</li>
+  <li><input name="quest_104" type="checkbox" value="all defects found satisfy an acceptance criteria" />all defects found satisfy an acceptance criteria</li>
+  <li><input name="quest_104" type="checkbox" value="after a finite period of time" />after a finite period of time</li>
+  <li><input name="quest_104" type="checkbox" value="when qa gets tired of testing it" />when qa gets tired of testing it</li>
+  <li><input name="quest_104" type="checkbox" value="when the customer says so" />when the customer says so</li>
+</ul>
+</div>
+
+
+
+<!-- question: 105  name: TESTING: goal -->
+<div class="question">
+<h3>TESTING: goal</h3>
+<p class="questiontext"><p>The goal of test execution is to</p></p>
+<ul class="multichoice">
+  <li><input name="quest_105" type="radio" value="find and remove every defect" />find and remove every defect</li>
+  <li><input name="quest_105" type="radio" value="make the organization aware of issues encountered during testing" />make the organization aware of issues encountered during testing</li>
+  <li><input name="quest_105" type="radio" value="verify the test script" />verify the test script</li>
+  <li><input name="quest_105" type="radio" value="validate the requirements" />validate the requirements</li>
+</ul>
+</div>
+
+
+
+<!-- question: 113  name: TESTING: Myths -->
+<div class="question">
+<h3>TESTING: Myths</h3>
+<p class="questiontext"><p>Which of the following are false statements about software testers?</p></p>
+<ul class="multichoice">
+  <li><input name="quest_113" type="checkbox" value="Anyone can be a tester, it involves no skills or training" />Anyone can be a tester, it involves no skills or training</li>
+  <li><input name="quest_113" type="checkbox" value="Testers make poor project managers" />Testers make poor project managers</li>
+  <li><input name="quest_113" type="checkbox" value="Testers like to criticize developers" />Testers like to criticize developers</li>
+  <li><input name="quest_113" type="checkbox" value="Testers must be nasty" />Testers must be nasty</li>
+  <li><input name="quest_113" type="checkbox" value="Testers are dumber than programmers" />Testers are dumber than programmers</li>
+  <li><input name="quest_113" type="checkbox" value="Testers should work in a different building than programmers" />Testers should work in a different building than programmers</li>
+</ul>
+</div>
+
+
+
+<!-- question: 100  name: TESTING: quality resp -->
+<div class="question">
+<h3>TESTING: quality resp</h3>
+<p class="questiontext"><p>The quality of a software product is whose responsibility?</p></p>
+<ul class="multichoice">
+  <li><input name="quest_100" type="radio" value="the entire team" />the entire team</li>
+  <li><input name="quest_100" type="radio" value="the project manager" />the project manager</li>
+  <li><input name="quest_100" type="radio" value="the architect" />the architect</li>
+  <li><input name="quest_100" type="radio" value="the developers" />the developers</li>
+  <li><input name="quest_100" type="radio" value="the quality assurance team" />the quality assurance team</li>
+  <li><input name="quest_100" type="radio" value="the application support team" />the application support team</li>
+</ul>
+</div>
+
+
+
+<!-- question: 103  name: TESTING: regression -->
+<div class="question">
+<h3>TESTING: regression</h3>
+<p class="questiontext"><p>A type of test focusing on making sure any changes have not broken existing functionality is called</p></p>
+<ul class="multichoice">
+  <li><input name="quest_103" type="radio" value="alpha build" />alpha build</li>
+  <li><input name="quest_103" type="radio" value="beta build" />beta build</li>
+  <li><input name="quest_103" type="radio" value="unit test" />unit test</li>
+  <li><input name="quest_103" type="radio" value="regression test" />regression test</li>
+  <li><input name="quest_103" type="radio" value="acceptance test" />acceptance test</li>
+</ul>
+</div>
+
+
+
+<!-- question: 109  name: TESTING: smoke -->
+<div class="question">
+<h3>TESTING: smoke</h3>
+<p class="questiontext"><p>A subset of test cases representative of the entire test plan is called a _________</p></p>
+<ul class="multichoice">
+  <li><input name="quest_109" type="radio" value="alpha build" />alpha build</li>
+  <li><input name="quest_109" type="radio" value="beta build" />beta build</li>
+  <li><input name="quest_109" type="radio" value="regression test" />regression test</li>
+  <li><input name="quest_109" type="radio" value="acceptance test" />acceptance test</li>
+  <li><input name="quest_109" type="radio" value="smoke test" />smoke test</li>
+</ul>
+</div>
+
+
+
+<!-- question: 101  name: TESTING: test case defn -->
+<div class="question">
+<h3>TESTING: test case defn</h3>
+<p class="questiontext"><p>The description of a specific interaction with the system to test a single behavior is called the test ______</p></p>
+<ul class="multichoice">
+  <li><input name="quest_101" type="radio" value="case" />case</li>
+  <li><input name="quest_101" type="radio" value="script" />script</li>
+  <li><input name="quest_101" type="radio" value="plan" />plan</li>
+  <li><input name="quest_101" type="radio" value="document" />document</li>
+  <li><input name="quest_101" type="radio" value="execution" />execution</li>
+</ul>
+</div>
+
+
+
+<!-- question: 44  name: Risk: RE calculation -->
+<div class="question">
+<h3>Risk: RE calculation</h3>
+<p class="questiontext"><p>Suppose the probability of some unfortunate outcome on your project is 20%, and the loss would be defined as 30 hours of extra work time. What is the resulting risk exposure?</p></p>
+<ul class="numerical">
+  <li><input name="quest_44" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 59  name: DEFECT C: Fix time -->
+<div class="question">
+<h3>DEFECT C: Fix time</h3>
+<p class="questiontext"><p>According to Humphrey, a Requirements defect that takes one hour to fix in-phase takes ____ hours to fix in the Coding phase</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_59" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 62  name: DEFECT I: process -->
+<div class="question">
+<h3>DEFECT I: process</h3>
+<p class="questiontext"><p>Defects found during testing reveal as much about the adequacy _____ (1 word) as they do the quality of the product.</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_62" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 28  name: Estimates: process -->
+<div class="question">
+<h3>Estimates: process</h3>
+<p class="questiontext"><p>Estimates are a highly _____ process</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_28" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 129  name: Postmortem: court -->
+<div class="question">
+<h3>Postmortem: court</h3>
+<p class="questiontext"><p>Many companies do not want to share their postmortem because they worry they will end up in _______, explaining to a judge and jury explaining their failures.</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_129" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 134  name: Postmortem: history -->
+<div class="question">
+<h3>Postmortem: history</h3>
+<p class="questiontext"><p>The main purpose of Project History Day is to determine the _____ ________ of project issues so process improvement activities can address them.</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_134" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 43  name: Risk: FIB -->
+<div class="question">
+<h3>Risk: FIB</h3>
+<p class="questiontext"><p>Successful project managers are</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_43" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 50  name: Risk: RE relative scale -->
+<div class="question">
+<h3>Risk: RE relative scale</h3>
+<p class="questiontext"><p>One possible way to address the problem of accurately estimating P(UO) and L(UO) is to use values on a ____________ of 0 to 10.</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_50" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 91  name: Task Planning: baseline -->
+<div class="question">
+<h3>Task Planning: baseline</h3>
+<p class="questiontext"><p>The initial schedule against which changes should be measured is called the _________________</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_91" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 90  name: Task Planning: buffers -->
+<div class="question">
+<h3>Task Planning: buffers</h3>
+<p class="questiontext"><p>Extra &quot;empty&quot; tasks added to a schedule are called _____________</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_90" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 89  name: Task Planning: criticalpath -->
+<div class="question">
+<h3>Task Planning: criticalpath</h3>
+<p class="questiontext"><p>The sequence of tasks that comprises the minimum time to complete the project is called the</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_89" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 85  name: Task Planning: dependency -->
+<div class="question">
+<h3>Task Planning: dependency</h3>
+<p class="questiontext"><p>When a task involves an activity, resource, or work product that is also subsequently required by another task, then it has a _____ on that other task.</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_85" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 87  name: Task Planning: Gantt -->
+<div class="question">
+<h3>Task Planning: Gantt</h3>
+<p class="questiontext"><p>The most common type of scheduling chart is the ______________ chart</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_87" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 88  name: Task Planning: slack -->
+<div class="question">
+<h3>Task Planning: slack</h3>
+<p class="questiontext"><p>The amount of time a task in a sequence can be delayed without delaying the last task in the sequence is called the _____________</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_88" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 99  name: TESTING: quality defn -->
+<div class="question">
+<h3>TESTING: quality defn</h3>
+<p class="questiontext"><p>Your textbook defines quality as ____________</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_99" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 106  name: TESTING: triage -->
+<div class="question">
+<h3>TESTING: triage</h3>
+<p class="questiontext"><p>the process of reviewing a defect in the defect tracking system and assigning it a priority for repair is called ______________</p></p>
+<ul class="shortanswer">
+  <li><input name="quest_106" type="text" /></li>
+</ul>
+</div>
+
+
+
+<!-- question: 61  name: DEFECT C: Rayleigh curve -->
+<div class="question">
+<h3>DEFECT C: Rayleigh curve</h3>
+<p class="questiontext"><p>Defect removal times should trend by phase differently than defect injection rates per phase</p></p>
+<ul class="truefalse">
+  <li><input name="quest_61" type="radio" value="True" />True</li>
+  <li><input name="quest_61" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 8  name: Earned Value definition -->
+<div class="question">
+<h3>Earned Value definition</h3>
+<p class="questiontext"><p>Earned Values are a measure of project effort</p></p>
+<ul class="truefalse">
+  <li><input name="quest_8" type="radio" value="True" />True</li>
+  <li><input name="quest_8" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 9  name: EV definition 2 -->
+<div class="question">
+<h3>EV definition 2</h3>
+<p class="questiontext"><p>Earned Value refers to a methodology</p></p>
+<ul class="truefalse">
+  <li><input name="quest_9" type="radio" value="True" />True</li>
+  <li><input name="quest_9" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 133  name: Postmortem: debrief -->
+<div class="question">
+<h3>Postmortem: debrief</h3>
+<p class="questiontext"><p>Debriefing meetings that allow team members to vent project frustrations are always bad.</p></p>
+<ul class="truefalse">
+  <li><input name="quest_133" type="radio" value="True" />True</li>
+  <li><input name="quest_133" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 128  name: Postmortem: failures -->
+<div class="question">
+<h3>Postmortem: failures</h3>
+<p class="questiontext"><p>A postmortem is a cataloging and understanding of your successes</p></p>
+<ul class="truefalse">
+  <li><input name="quest_128" type="radio" value="True" />True</li>
+  <li><input name="quest_128" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 135  name: Postmortem: results -->
+<div class="question">
+<h3>Postmortem: results</h3>
+<p class="questiontext"><p>It is important to publish results only to management so they know who to blame (and whom to possibly fire).</p></p>
+<ul class="truefalse">
+  <li><input name="quest_135" type="radio" value="True" />True</li>
+  <li><input name="quest_135" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 131  name: Postmortem: Survey -->
+<div class="question">
+<h3>Postmortem: Survey</h3>
+<p class="questiontext"><p>Some of the survey questions used on different projects should be the same so you can compare answers and look for commonalities.</p></p>
+<ul class="truefalse">
+  <li><input name="quest_131" type="radio" value="True" />True</li>
+  <li><input name="quest_131" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 49  name: Risk: RE barrier -->
+<div class="question">
+<h3>Risk: RE barrier</h3>
+<p class="questiontext"><p>A significant issue with the Risk Exposure calculation is the ability to accurately estimate what P(UO) and L(UO) values are.</p></p>
+<ul class="truefalse">
+  <li><input name="quest_49" type="radio" value="True" />True</li>
+  <li><input name="quest_49" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 110  name: TESTING: Automation vs. manual -->
+<div class="question">
+<h3>TESTING: Automation vs. manual</h3>
+<p class="questiontext"><p>Defining automated tests takes more effort than manual testing.</p></p>
+<ul class="truefalse">
+  <li><input name="quest_110" type="radio" value="True" />True</li>
+  <li><input name="quest_110" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 112  name: TESTING: Automation vs. manual exec -->
+<div class="question">
+<h3>TESTING: Automation vs. manual exec</h3>
+<p class="questiontext"><p>Executing automated tests takes more effort than manual testing.</p></p>
+<ul class="truefalse">
+  <li><input name="quest_112" type="radio" value="True" />True</li>
+  <li><input name="quest_112" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 107  name: TESTING: role of tester -->
+<div class="question">
+<h3>TESTING: role of tester</h3>
+<p class="questiontext"><p>The tester is responsible for determining the impact of a defect on the organization's business value.</p></p>
+<ul class="truefalse">
+  <li><input name="quest_107" type="radio" value="True" />True</li>
+  <li><input name="quest_107" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 102  name: TESTING: test case vs. use case -->
+<div class="question">
+<h3>TESTING: test case vs. use case</h3>
+<p class="questiontext"><p>A test case is like a use case in that both of them detail the exact sequence of user interface actions (pressing buttons, hotkeys, drag-n-drop, etc.) needed to exercise system functionality.</p></p>
+<ul class="truefalse">
+  <li><input name="quest_102" type="radio" value="True" />True</li>
+  <li><input name="quest_102" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<!-- question: 108  name: TESTING: tester reporting -->
+<div class="question">
+<h3>TESTING: tester reporting</h3>
+<p class="questiontext"><p>Testers are only responsible for reporting what they see when they use the software</p></p>
+<ul class="truefalse">
+  <li><input name="quest_108" type="radio" value="True" />True</li>
+  <li><input name="quest_108" type="radio" value="False" />False</li>
+</ul>
+</div>
+
+
+
+<p class="submit">
+  <input type="submit" />
+</p>
+</form>
+</body>
+</html>
